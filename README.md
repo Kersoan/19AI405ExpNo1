@@ -1,4 +1,4 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>Ex-No-01 :Developing AI Agent with PEAS Description</h1>
 
 
 <h3>AIM:</h3>
@@ -39,8 +39,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-### PROGRAM: KADIN SAMSON L
-# REGISTER NO: 212221230044
+### PROGRAM: KERSOAN P
+# REGISTER NO: 212221230050
 ```class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
